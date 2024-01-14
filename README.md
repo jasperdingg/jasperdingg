@@ -1,6 +1,4 @@
-jasper ding
-dvhs student
-
+hi
 
 <!---
 jasperdingg/jasperdingg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
