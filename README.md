@@ -58,8 +58,6 @@ AI, software engineering, systems, and open-source projects
 
 <div align="center">
 
-```txt
-Building. Learning. Shipping.
-```
+
 
 </div>
