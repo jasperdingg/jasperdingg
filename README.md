@@ -2,7 +2,7 @@
 
 # Hi, I'm Jasper Ding
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=650&lines=Senior+%40+Dougherty+Valley+High+School;Student+Developer+%2B+Open+Source+Builder;Exploring+AI%2C+Systems%2C+and+Creative+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=650&lines=Senior+%40+Dougherty+Valley+High+School)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,12 +43,6 @@ Build useful things, learn deeply, and ship projects that people actually use
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,git,github,vscode&theme=dark" />
 </p>
-
-## Featured Projects
-
-- **Project One** - A short one-line description of what it does.
-- **Project Two** - A project that shows your strongest technical skills.
-- **Project Three** - Something creative, useful, or experimental.
 
 ## GitHub Stats
 
