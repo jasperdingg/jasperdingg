@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jasper Ding
+# jasper ding
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=650&lines=Senior+%40+Dougherty+Valley+High+School)](https://git.io/typing-svg)
 
