@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jasper+Ding;Senior+%40+Dougherty+Valley+High+School)](https://git.io/typing-svg)
+# Jasper Ding
 
 </div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=650&lines=Senior+%40+Dougherty+Valley+High+School)](https://git.io/typing-svg)
