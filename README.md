@@ -18,10 +18,7 @@ Jasper Ding
 Senior @ Dougherty Valley High School
 
 > currently_exploring
-AI, software engineering, systems, games, and open-source projects
-
-> goal
-Build useful things, learn deeply, and ship projects that people actually use
+AI, software engineering, systems, and open-source projects
 ```
 
 ## Socials
