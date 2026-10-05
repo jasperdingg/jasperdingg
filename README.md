@@ -17,8 +17,6 @@ Jasper Ding
 > status
 Senior @ Dougherty Valley High School
 
-> currently_exploring
-AI, software engineering, systems, and open-source projects
 
 ```
 
@@ -34,12 +32,6 @@ AI, software engineering, systems, and open-source projects
   <a href="mailto:jasperding4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,git,github,vscode&theme=dark" />
 </p>
 
 ## GitHub Stats
