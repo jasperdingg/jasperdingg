@@ -34,22 +34,6 @@ Senior @ Dougherty Valley High School
   </a>
 </p>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=jasperdingg&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jasperdingg&theme=tokyonight&hide_border=true&layout=compact" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=jasperdingg&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
 
 
 
