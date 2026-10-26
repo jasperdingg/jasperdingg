@@ -13,8 +13,7 @@
 Jasper Ding
 
 > status
-Senior @ Dougherty Valley High School
-
+High School Senior
 
 ```
 
